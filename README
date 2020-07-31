@@ -1,3 +1,9 @@
 aip-git practice lab 1
-This is a new line
+<<<<<<< HEAD
 Hello, how are you
+=======
+
+Hello, how are you
+I'm good thanks!
+I'm also good, hopefully this works!
+>>>>>>> 77c252c17e378c8f4977a7cb87948ecb29678420
