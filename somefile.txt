@@ -1,2 +1,3 @@
 hello git is nice
 hi, yeah git is not too bad
+yeah I agree, git's not too shabby
