@@ -1,1 +1,2 @@
 hello git is nice
+hi, yeah git is not too bad
